@@ -8,7 +8,7 @@ Generate unlimited roblox account
 
 No captcha
 
-10 sec cooldown
+25 sec cooldown
  
 Discord RPC
 
