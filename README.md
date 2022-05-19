@@ -2,7 +2,7 @@
 
 This is a free roblox 2017 alt account generator
 
-Free: (Release on 2022. 05. 22.)
+Free: (Release on 2022. 05. 20.)
 
 Generate unlimited roblox account
 
