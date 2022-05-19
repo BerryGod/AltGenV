@@ -2,11 +2,13 @@
 
 This is a free roblox 2017 alt account generator
 
-Free: (Release on 2022. 05. 20.)
+Free: (Release on 2022. 05. 19.)
 
 Generate unlimited roblox account
 
-You need to do captcha
+No captcha
+
+10 sec cooldown
  
 Discord RPC
 
