@@ -1,3 +1,5 @@
+https://img.shields.io/github/downloads/BerryGod/AltGenV/total
+
 # AltGenV
 
 This is a free roblox 2017 alt account generator
