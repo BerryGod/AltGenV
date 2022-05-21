@@ -1,8 +1,14 @@
 # AltGenV
 
+![GitHub all releases](https://img.shields.io/github/downloads/BerryGod/AltGenV/total?style=flat-square)
+
+
+
+
+
 This is a free roblox 2017 alt account generator
 
-Free: (Released)
+# Free
 
 Generate unlimited roblox account
 
@@ -10,7 +16,7 @@ Captcha for every account
 
 Discord RPC
 
-Private: (2022. 06. 15.)
+# Private
 
 Generate unlimited roblox account
 
