@@ -30,6 +30,10 @@ Discord RPC
 
 
 
+# Tips
 
+Always use the most recent version of the generator
+
+Download node.js
 
 
