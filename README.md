@@ -1,6 +1,6 @@
 # AltGenV
 
-![GitHub all releases](https://img.shields.io/badge/downloads-91-green)
+![GitHub all releases](https://img.shields.io/badge/downloads-92-green)
 
 
 
