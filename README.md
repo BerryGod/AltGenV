@@ -1,6 +1,6 @@
 # AltGenV
 
-![GitHub all releases](https://img.shields.io/github/downloads/BerryGod/AltGenV/total?style=flat-square)
+![GitHub all releases](https://img.shields.io/badge/downloads-67-green)
 
 
 
